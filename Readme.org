@@ -1,2 +1,5 @@
 * Readme
 Purescript exercises
+
+** Pyrulis folder
+file:~/Programming/Pyrulis/Purescript/
