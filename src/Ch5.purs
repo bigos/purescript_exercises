@@ -1,8 +1,8 @@
 module Ch5 where
 
-import Prelude (Unit, show)
 import Effect (Effect)
 import Effect.Console (log)
+import Prelude (Unit, show)
 
 -- the last parentheses are implied
 -- these type signatures are equivalent
